@@ -1,4 +1,4 @@
-use security_demo_db;
+use recipes_db;
 
 INSERT INTO categories (name,created,edited) VALUES ('Beef',NOW(),NOW());
 INSERT INTO categories (name,created,edited) VALUES ('Side',NOW(),NOW());

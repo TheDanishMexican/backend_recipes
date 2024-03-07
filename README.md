@@ -1,3 +1,6 @@
+[![Build and deploy JAR app to Azure Web App - recipeServerKEA](https://github.com/TheDanishMexican/backend_recipes/actions/workflows/main_recipeserverkea.yml/badge.svg)](https://github.com/TheDanishMexican/backend_recipes/actions/workflows/main_recipeserverkea.yml)
+
+
 # startcode-with-security
 
 [Supplementing Google Doc](https://docs.google.com/document/d/1k5T7rRSrGetjuMdYoErk4ToZTk22QyBpR-x17nmtRos/edit?usp=sharing)

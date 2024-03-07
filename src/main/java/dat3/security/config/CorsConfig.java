@@ -17,7 +17,8 @@ public class CorsConfig {
             "http://localhost:5173",
             "http://localhost:5174",
             "http://localhost:5175",
-            "http://localhost:5176"
+            "http://localhost:5176",
+            "https://gray-desert-0e09d0c10.4.azurestaticapps.net"
     };
     @Bean
     public CorsConfigurationSource corsConfigurationSource() {
